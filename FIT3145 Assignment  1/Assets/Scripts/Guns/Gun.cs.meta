@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 314da42a30145b64faef4e489854b032
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootSound: {fileID: 8300000, guid: 444f21b2bacd5504d99d8693d75a150b, type: 3}
+  - reloadSound: {fileID: 8300000, guid: 065a58a08eabcd84d9ded225d93a2478, type: 3}
+  - bulletPrefab: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - aimTransform: {instanceID: 0}
+  - gunSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
